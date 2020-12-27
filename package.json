@@ -1,0 +1,19 @@
+{
+  "name": "ioredis",
+  "version": "1.0.0",
+  "description": "Learn ioredis",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github"
+  },
+  "author": "Leonardo Pereira <leonpereiratech@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.19.2"
+  }
+}
